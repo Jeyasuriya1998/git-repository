@@ -1,1 +1,2 @@
 Second File
+some text are added dirctly to the Git
